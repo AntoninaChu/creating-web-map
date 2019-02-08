@@ -11,4 +11,6 @@ To find film and locations this programm uses a file with all that data(location
 To see how to use program you must to write this in your command line:
 web_map.py --help
 
+Program will ask you to enter an integer. With this number you say, how many data in file you want programm to process.
+
 Map is created using folium module.
